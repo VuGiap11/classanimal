@@ -1,0 +1,8 @@
+C:\Users\tuan\Desktop\classanimal\bin\Debug\classanimal.exe.config
+C:\Users\tuan\Desktop\classanimal\bin\Debug\classanimal.exe
+C:\Users\tuan\Desktop\classanimal\bin\Debug\classanimal.pdb
+C:\Users\tuan\Desktop\classanimal\obj\Debug\classanimal.csproj.AssemblyReference.cache
+C:\Users\tuan\Desktop\classanimal\obj\Debug\classanimal.csproj.SuggestedBindingRedirects.cache
+C:\Users\tuan\Desktop\classanimal\obj\Debug\classanimal.csproj.CoreCompileInputs.cache
+C:\Users\tuan\Desktop\classanimal\obj\Debug\classanimal.exe
+C:\Users\tuan\Desktop\classanimal\obj\Debug\classanimal.pdb
